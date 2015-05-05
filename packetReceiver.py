@@ -1,5 +1,7 @@
 #!/usr/bin/python           # This is server.py file
-
+# Copyright (c) Younghwan Jang, 2014-2015
+# You can copy, reuse, modify whatever you want but...
+# I want you to specify where it is from.(It is not by force, but a recommendation)
 import socket               # Import socket module
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
